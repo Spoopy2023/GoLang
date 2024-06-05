@@ -1,3 +1,3 @@
 ## Go lang 
 
-# A series of projects to help others lern go Lang
+# A series of projects to help others learn Go Lang
